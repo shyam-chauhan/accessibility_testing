@@ -56,6 +56,7 @@ def analyze_website(url):
 
 
 
+
     # Missing elements list
     if missing_alt_images:
         print("\n🔎 Missing <alt> in <img> tags:")
